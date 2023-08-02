@@ -12,6 +12,7 @@ namespace DUMP
         {
             Console.WriteLine("Evo drugi commit");
             Console.WriteLine("Hello from third commit");
+            Console.WriteLine("Alo alo");
         }
     }
 }

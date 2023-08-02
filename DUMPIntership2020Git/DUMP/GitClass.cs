@@ -8,5 +8,6 @@ namespace DUMP
 {
     class GitClass
     {
+        Console.WriteLine("Alo alo");
     }
 }
