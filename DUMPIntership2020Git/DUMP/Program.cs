@@ -10,7 +10,7 @@ namespace DUMP
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Evo drugi commit");
         }
     }
 }
